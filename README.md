@@ -3,6 +3,8 @@ Aim it at your photo collection and stare in awe as it tags your photos with *wu
 
 ## Setup
 ```sh
+git clone https://github.com/marcelklehr/wutsdis.git
+cd wutsdis
 python3 -m venv ./venv
 . venv/bin/activate
 pip install -r requirements.txt
