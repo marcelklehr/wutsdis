@@ -1,4 +1,4 @@
-# wutsdis
+# :eyeglasses: wutsdis
 Aim it at your photo collection and stare in awe as it tags your photos with *wuts in dem* :sparkles:.
 
 ## Setup
